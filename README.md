@@ -1,1 +1,1 @@
-# SolidityClass
+# UdemySolidityClass
